@@ -1,6 +1,6 @@
 {
   "name": "@martin-ebay/ebay-data-viz-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library to generate svg paths used in data visualization components",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
