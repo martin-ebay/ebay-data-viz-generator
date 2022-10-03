@@ -1,9 +1,10 @@
 # ebay-data-viz-generator
 A library to generate svg paths used in data visualization components
-<script>
+
+<html>
+<script type="application/javascript">
     console.log('script console.log worked');
 </script>
-<html>
     <div classname="demo">
         demo container
     </div>
