@@ -1,1 +1,5 @@
-export { DonutChartPathGenerator } from './donut-chart';
+import { DonutChartPathGenerator } from './donut-chart';
+
+module.exports = {
+    DonutChartPathGenerator
+}
